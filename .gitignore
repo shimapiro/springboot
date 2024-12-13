@@ -37,3 +37,4 @@ Thumbs.db
 *.env
 application-*.properties
 application-*.yml
+/.gitattributes
